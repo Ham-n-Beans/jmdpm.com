@@ -22,9 +22,9 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "JMDPM LLC"
 description              : "Making project data work for you."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://jmdpm.com"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "Ham-n-Beans/jmdpm.com"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/assets/images/JMDPM_Logo_Compact-small-transparent.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
